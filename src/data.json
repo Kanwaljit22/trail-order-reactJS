@@ -1,0 +1,236 @@
+{
+    "dashboardData": {
+      "newRequest": [
+        {
+          "headingName": "Trial for Cisco Meraki Wifi 7",
+          "status": "New Request",
+          "values": [
+            {
+              "key": "Requested on",
+              "value": "Jul 5, 2024"
+            },
+            {
+              "key": "Customer",
+              "value": "Metlife"
+            },
+            {
+              "key": "Location",
+              "value": "Southborough 1"
+            },
+            {
+              "key": "Contact",
+              "value": "Olivia Kurl"
+            }
+          ]
+        },
+        {
+          "headingName": "Trial for Catalyst 9300L-M",
+          "status": "New Request",
+          "values": [
+            {
+              "key": "Requested on",
+              "value": "Jul 5, 2024"
+            },
+            {
+              "key": "Customer",
+              "value": "Metlife"
+            },
+            {
+              "key": "Location",
+              "value": "Southborough 2"
+            },
+            {
+              "key": "Contact",
+              "value": "Olivia Kurl"
+            }
+          ]
+        },
+        {
+          "headingName": "Trial for Cloud-based network platform",
+          "status": "New Request",
+          "values": [
+            {
+              "key": "Requested on",
+              "value": "Jul 5, 2024"
+            },
+            {
+              "key": "Customer",
+              "value": "Metlife"
+            },
+            {
+              "key": "Location",
+              "value": "Southborough 3"
+            },
+            {
+              "key": "Contact",
+              "value": "Olivia Kurl"
+            }
+          ]
+        },
+        {
+          "headingName": "Trial for Cloud-based network platform",
+          "status": "New Request",
+          "values": [
+            {
+              "key": "Requested on",
+              "value": "Jul 5, 2024"
+            },
+            {
+              "key": "Customer",
+              "value": "Metlife"
+            },
+            {
+              "key": "Location",
+              "value": "Southborough 4"
+            },
+            {
+              "key": "Contact",
+              "value": "Olivia Kurl"
+            }
+          ]
+        }
+      ],
+      "allRequest": [
+        {
+          "headingName": "Trial for Cisco Meraki Wifi 7",
+          "status": "Active",
+          "durationStatus": "default",
+          "durationDays": "88 days remaining",
+          "values": [
+            {
+              "key": "Trial ID",
+              "value": "Jul 5, 2024"
+            },
+            {
+              "key": "Customer",
+              "value": "Metlife"
+            },
+            {
+              "key": "Trial Value",
+              "value": "USD 21,789"
+            },
+            {
+              "key": "Start Date",
+              "value": "Jun 15, 2024"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "Sep 15, 2024"
+            }
+          ]
+        },
+        {
+          "headingName": "Trial for Cisco Catalyst 9163E",
+          "status": "Active",
+          "durationStatus": "default",
+          "durationDays": "73 days remaining",
+          "values": [
+            {
+              "key": "Trial ID",
+              "value": "92390921"
+            },
+            {
+              "key": "Customer",
+              "value": "Infinx"
+            },
+            {
+              "key": "Trial Value",
+              "value": "USD 12,000"
+            },
+            {
+              "key": "Start Date",
+              "value": "Apr 20, 2024"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "Jun 20, 2024"
+            }
+          ]
+        },
+        {
+          "headingName": "Trial for Cisco Meraki Wifi 8",
+          "status": "Extension Requested",
+          "durationStatus": "warning",
+          "durationDays": "8 days remaining",
+          "values": [
+            {
+              "key": "Trial ID",
+              "value": "92390922"
+            },
+            {
+              "key": "Customer",
+              "value": "Raytheon"
+            },
+            {
+              "key": "Trial Value",
+              "value": "USD 24,908"
+            },
+            {
+              "key": "Start Date",
+              "value": "Apr 10, 2024"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "Jun 25, 2024"
+            }
+          ]
+        },
+        {
+          "headingName": "Trial for Meraki Wifi 6",
+          "status": "Expired",
+          "durationStatus": "expired",
+          "durationDays": "Expired",
+          "values": [
+            {
+              "key": "Trial ID",
+              "value": "92390923"
+            },
+            {
+              "key": "Customer",
+              "value": "Brightstar"
+            },
+            {
+              "key": "Trial Value",
+              "value": "USD 21,124"
+            },
+            {
+              "key": "Start Date",
+              "value": "Apr 15, 2024"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "Jun 15, 2024"
+            }
+          ]
+        },
+        {
+          "headingName": "Trial for Meraki Wifi 7 for Enterprise",
+          "status": "Expired",
+          "durationStatus": "expired",
+          "durationDays": "Expired",
+          "values": [
+            {
+              "key": "Trial ID",
+              "value": "93276589"
+            },
+            {
+              "key": "Customer",
+              "value": "Amazon"
+            },
+            {
+              "key": "Trial Value",
+              "value": "USD 21,908"
+            },
+            {
+              "key": "Start Date",
+              "value": "Apr 10, 2024"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "Jun 10, 2024"
+            }
+          ]
+        }
+      ]
+    }
+  }
